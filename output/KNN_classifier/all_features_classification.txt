@@ -1,0 +1,93 @@
+--- NON-Linear
+Combined Confusion Matrix across all folds:
+[[260 140]
+ [152 348]]
+Mean accuracy: 0.6755555555555557
+Combined Confusion Matrix across all folds:
+[[192 208]
+ [107 393]]
+Mean accuracy: 0.65
+Combined Confusion Matrix across all folds:
+[[209 191]
+ [164 336]]
+Mean accuracy: 0.6055555555555555
+Combined Confusion Matrix across all folds:
+[[396   4]
+ [ 98 402]]
+Mean accuracy: 0.8866666666666667
+Combined Confusion Matrix across all folds:
+[[400   0]
+ [  0 500]]
+Mean accuracy: 1.0
+Combined Confusion Matrix across all folds:
+[[239 161]
+ [176 324]]
+Mean accuracy: 0.6255555555555555
+Combined Confusion Matrix across all folds:
+[[146 254]
+ [  3 497]]
+Mean accuracy: 0.7144444444444444
+Combined Confusion Matrix across all folds:
+[[ 48 352]
+ [ 55 445]]
+Mean accuracy: 0.5477777777777778
+Combined Confusion Matrix across all folds:
+[[284 116]
+ [218 282]]
+Mean accuracy: 0.6288888888888888
+Combined Confusion Matrix across all folds:
+[[ 64 336]
+ [ 95 405]]
+Mean accuracy: 0.5211111111111111
+Total mean for all channels
+Combined Confusion Matrix across all folds and channels:
+[[111.9  88.1]
+ [ 53.4 196.6]]
+Mean accuracy across all folds and channels: 0.6855555555555557
+
+--- Linear
+Combined Confusion Matrix across all folds:
+[[288 112]
+ [196 304]]
+Mean accuracy: 0.6577777777777778
+Combined Confusion Matrix across all folds:
+[[120 280]
+ [ 72 428]]
+Mean accuracy: 0.6088888888888889
+Combined Confusion Matrix across all folds:
+[[257 143]
+ [166 334]]
+Mean accuracy: 0.6566666666666666
+Combined Confusion Matrix across all folds:
+[[400   0]
+ [100 400]]
+Mean accuracy: 0.888888888888889
+Combined Confusion Matrix across all folds:
+[[400   0]
+ [  0 500]]
+Mean accuracy: 1.0
+Combined Confusion Matrix across all folds:
+[[156 244]
+ [127 373]]
+Mean accuracy: 0.5877777777777778
+Combined Confusion Matrix across all folds:
+[[146 254]
+ [  3 497]]
+Mean accuracy: 0.7144444444444444
+Combined Confusion Matrix across all folds:
+[[  4 396]
+ [  5 495]]
+Mean accuracy: 0.5544444444444444
+Combined Confusion Matrix across all folds:
+[[130 270]
+ [137 363]]
+Mean accuracy: 0.5477777777777778
+Combined Confusion Matrix across all folds:
+[[ 48 352]
+ [ 83 417]]
+Mean accuracy: 0.5166666666666666
+Total mean for all channels
+Combined Confusion Matrix across all folds and channels:
+[[ 97.45 102.55]
+ [ 44.45 205.55]]
+Mean accuracy across all folds and channels: 0.6733333333333333
